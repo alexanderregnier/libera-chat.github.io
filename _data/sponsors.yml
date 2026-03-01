@@ -71,8 +71,9 @@
 
 - name: Gandi
   link: https://www.gandi.net
-  image: /static/img/gandi-black.svg
-  sources:
-    - srcset: /static/img/gandi-white.svg
-      media: '(prefers-color-scheme: dark)'
+  current: false
+
+- name: IRCCloud
+  link: https://www.irccloud.com/
+  image: /static/img/irccloud.svg
   current: true

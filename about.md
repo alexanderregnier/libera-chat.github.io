@@ -21,8 +21,8 @@ Board seats are elected by the membership. The current board members are:
 
 - **Chair**: moonmoon
 - **Treasurer**: Swant
-- **Operations Rep**: tomaw
-- **General Member, Vice Chair**: glguy
+- **Operations Rep, Vice Chair**: tomaw
+- **General Member**: glguy
 - **General Member**: She
 
 In addition to this the organisation has two auditors elected by the membership.

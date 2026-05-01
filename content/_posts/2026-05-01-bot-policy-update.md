@@ -5,8 +5,8 @@ excerpt: Planned updates to our policies regarding bots and LLMs
 ---
 
 Happy International Workers' Day.
-We need to talk about bots, particularly bots with LLMs.
 
+We need to talk about bots, particularly bots with LLMs.
 Over the past few months, there has been a spike in LLM usage on Libera.Chat
 from AI assistants running unsupervised on the network. Most of this activity
 hasn't affected major channels, but we have observed LLM-driven bots joining
